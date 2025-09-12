@@ -1,11 +1,11 @@
 # System-Design-A-Z
 Roadmap and useful resources to master SYSTEM DESIGN.
 
-# 🛠️ System Design Mastery Roadmap
+# System Design Mastery Roadmap
 
 This repository follows the [roadmap.sh](https://roadmap.sh/system-design) System Design Structure.
 
-## 🧠 1. Prerequisites (Basics)
+## 1. Prerequisites (Basics)
 
 ### Networking Basics
 - **Free:**
@@ -20,7 +20,7 @@ This repository follows the [roadmap.sh](https://roadmap.sh/system-design) Syste
 - **Paid:**
   - [Grokking the Modern System Design Interview (Educative)](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 
-## 🏗️ 2. Core System Design Concepts
+## 2. Core System Design Concepts
 
 ### Topics: Latency, Throughput, Availability, Consistency, Reliability, Scalability, Maintainability
 - **Free:**
@@ -29,7 +29,7 @@ This repository follows the [roadmap.sh](https://roadmap.sh/system-design) Syste
 - **Paid:**
   - [Designing Data-Intensive Applications by Martin Kleppmann](https://dataintensive.net/)
 
-## 📦 3. Storage (Database Design)
+## 3. Storage (Database Design)
 
 ### Database Fundamentals (SQL, NoSQL)
 - **Free:**
@@ -38,7 +38,7 @@ This repository follows the [roadmap.sh](https://roadmap.sh/system-design) Syste
 - **Paid:**
   - [SQL for Data Science – Coursera (University of California)](https://www.coursera.org/learn/sql-for-data-science)
 
-## 🛠️ 4. Components of a Large Scale System
+## 4. Components of a Large Scale System
 
 ### Load Balancers, Caches, Proxies, Message Queues
 - **Free:**
@@ -48,7 +48,7 @@ This repository follows the [roadmap.sh](https://roadmap.sh/system-design) Syste
 - **Paid:**
   - [Grokking the System Design Interview (Educative)](https://www.educative.io/courses/grokking-the-system-design-interview)
 
-## ⚙️ 5. Design Patterns for System Design
+## 5. Design Patterns for System Design
 
 ### Sharding, Replication, Eventual Consistency, Leader Election
 - **Free:**
@@ -57,7 +57,7 @@ This repository follows the [roadmap.sh](https://roadmap.sh/system-design) Syste
 - **Paid:**
   - [Designing Distributed Systems by Brendan Burns (Azure CTO)](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)
 
-## 🌍 6. Scalability Patterns
+## 6. Scalability Patterns
 
 ### CDN, Database Partitioning, Horizontal vs Vertical Scaling
 - **Free:**
@@ -66,7 +66,7 @@ This repository follows the [roadmap.sh](https://roadmap.sh/system-design) Syste
 - **Paid:**
   - [Scalability Engineering by Artur Ejsmont](https://www.goodreads.com/book/show/26022772-scalability-rules)
 
-## 📚 7. Practice: Design Real World Systems
+## 7. Practice: Design Real World Systems
 
 ### Practice Designing
 - **Free:**
@@ -80,10 +80,13 @@ This repository follows the [roadmap.sh](https://roadmap.sh/system-design) Syste
   - [Pramp – Free System Design Mock Interviews](https://www.pramp.com/#/)
 - **Paid:**
   - [Interviewing.io – Book Mock Interviews](https://interviewing.io/)
+ 
+## Newsletters and blogs
+1. [ByteByteGo](https://bytebytego.com/)
 
 ---
 
-# 🎯 Overall Study Strategy
+# Overall Study Strategy
 
 | Phase | Focus | Resources |
 |:---|:---|:---|
@@ -96,4 +99,5 @@ This repository follows the [roadmap.sh](https://roadmap.sh/system-design) Syste
 
 ---
 
-### ⭐ Happy Learning and Designing! 🚀
+### Contributions: 
+- Think of this as open-source prep — if you’ve got insights or hacks that helped you, feel free to drop them in. It might just help someone chasing the same goal.
