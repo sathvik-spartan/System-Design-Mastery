@@ -86,7 +86,7 @@ This repository follows the [roadmap.sh](https://roadmap.sh/system-design) Syste
 
 ---
 
-# Overall Study Strategy
+# Overall Study Strategy (Prototypical).
 
 | Phase | Focus | Resources |
 |:---|:---|:---|
