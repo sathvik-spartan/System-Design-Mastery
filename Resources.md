@@ -6,7 +6,7 @@
 ---
 
 ### Youtube Playlists for System Design.
-- [ByteByteGo Youtub ePlaylist](https://www.youtube.com/watch?v=lX4CrbXMsNQ&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf) (System Design Fundamentals - ByteByteGo)
+- [ByteByteGo Youtube Playlist](https://www.youtube.com/watch?v=lX4CrbXMsNQ&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf) (System Design Fundamentals - ByteByteGo)
 - [System Design Interview Prep](https://www.youtube.com/watch?v=M4lR_Va97cQ&list=PLCRMIe5FDPseVvwzRiCQBmNOVUIZSSkP8) (System Design Interview Prep)
 
 ---
