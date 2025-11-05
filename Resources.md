@@ -1,7 +1,7 @@
 # These are a few links to help you master **SYSTEM DESIGN**.
 
 - [ByteByteGo Blogs](https://blog.bytebytego.com/api/v1/file/d0601f5c-3308-430c-90d9-7f1c723b6ddd.pdf)   (or)   [Google Drive Link](https://drive.google.com/file/d/1PYWnX7QxNAsyiqXqn9ZoT7f-beoPs4n-/view?usp=sharing)
-- [Detailed Roadmap for system design](https://roadmap.sh/system-design)
+- [Detailed Roadmap for System Design](https://roadmap.sh/system-design)
 
 ---
 
