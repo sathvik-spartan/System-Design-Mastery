@@ -1,6 +1,7 @@
 # System Design Mastery Roadmap
 
-This repository follows the [roadmap.sh](https://roadmap.sh/system-design) System Design Structure.
+Follow this roadmap if you wanna explore System Design and it's components.       
+> [roadmap.sh - System Design](https://roadmap.sh/system-design) 
 
 ## These are a few links to help you master **SYSTEM DESIGN**.
 
