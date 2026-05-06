@@ -9,6 +9,7 @@
 - Fundamental Concepts - [FreeCodeCamp](https://youtu.be/C842vFY5kRo?si=6Mx-rUOZL9pUrwHS)
 - [ByteByteGo Youtube Playlist](https://www.youtube.com/watch?v=lX4CrbXMsNQ&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf) (System Design Fundamentals - ByteByteGo)
 - [System Design Interview Prep](https://www.youtube.com/watch?v=M4lR_Va97cQ&list=PLCRMIe5FDPseVvwzRiCQBmNOVUIZSSkP8) (System Design Interview Prep)
+- Projects and Real World Applications of System Design -> [Hayk Simonyan's Youtube Channel](https://www.youtube.com/@hayk.simonyan)
 
 ---
 
