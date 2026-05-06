@@ -27,7 +27,7 @@
 ---
 
 ### System Design Roadmap (TUF - Take U Forward)
-- [Here's the link](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/)
+- [Complete System Design Roadmap with Videos for SDEs](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/)
 
 ---
 
