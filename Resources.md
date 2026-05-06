@@ -1,4 +1,8 @@
-# These are a few links to help you master **SYSTEM DESIGN**.
+# System Design Mastery Roadmap
+
+This repository follows the [roadmap.sh](https://roadmap.sh/system-design) System Design Structure.
+
+## These are a few links to help you master **SYSTEM DESIGN**.
 
 - [ByteByteGo Blogs](https://blog.bytebytego.com/api/v1/file/d0601f5c-3308-430c-90d9-7f1c723b6ddd.pdf)     
 - [Detailed Roadmap for System Design](https://roadmap.sh/system-design) -> (Recommended for working professionals)       
