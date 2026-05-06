@@ -1,9 +1,5 @@
-# System-Design-A-Z
+# The Complete guide to System Design.
 Roadmap and useful resources to master SYSTEM DESIGN.
-
-# System Design Mastery Roadmap
-
-This repository follows the [roadmap.sh](https://roadmap.sh/system-design) System Design Structure.
 
 ## 1. Prerequisites (Basics)
 
