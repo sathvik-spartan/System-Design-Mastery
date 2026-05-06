@@ -96,4 +96,5 @@ Roadmap and useful resources to master SYSTEM DESIGN.
 ---
 
 ### Contributions: 
-- Think of this as open-source prep — if you’ve got insights or hacks that helped you, feel free to drop them in. It might just help someone chasing the same goal.
+- Think of this as open-source prep — if you’ve got insights or hacks that helped you, feel free to drop them in.
+- It might just help someone chasing the same goal.
